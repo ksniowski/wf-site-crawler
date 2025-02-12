@@ -10,6 +10,12 @@ Install the dependencies with a npm:
 npm install
 ```
 
+and also
+
+```bash
+npx install playwright
+```
+
 ## Usage
 Run a command to start crawler to work:
 ```javascript
