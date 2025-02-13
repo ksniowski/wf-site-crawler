@@ -13,7 +13,7 @@ npm install
 and also
 
 ```bash
-npx install playwright
+npx playwright install
 ```
 
 ## Usage
